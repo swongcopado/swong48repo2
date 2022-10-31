@@ -1498,6 +1498,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>DevOpsObject__c.Field_Four__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>DocumentChecklistItem.AccountId</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -3708,6 +3713,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>DemoObject__c-DemoObject Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>DevOpsObject__c-DevOpsObject Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>DigitalWallet-Digital Wallet Layout</layout>
